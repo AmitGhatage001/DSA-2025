@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="099f4c84-3878-42a6-bbcc-2a559cf6ca73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PlusOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +42,22 @@
     "onboarding.tips.debug.path": "D:/Codes/DSA 2025 Problem Solving/DSA 2025/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SquareRoot">
+  <component name="RunManager" selected="Application.PlusOne">
     <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Factors" />
+      <module name="DSA 2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.PlusOne" />
       <module name="DSA 2025" />
       <extension name="coverage">
         <pattern>
@@ -72,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.SquareRoot" />
         <item itemvalue="Application.Factors" />
       </list>
